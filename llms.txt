@@ -1,0 +1,26 @@
+# SerElpis
+
+> Proyecto de educación emocional online fundado por Vanessa Luque, educadora social y psicoterapeuta especializada en terapias contextuales (ACT).
+
+## Qué es SerElpis
+
+SerElpis ofrece sesiones individuales online de entrenamiento en habilidades emocionales. El enfoque es contextual y basado en evidencia, integrando ACT (Acceptance and Commitment Therapy), análisis de conducta y mindfulness.
+
+No es psicoterapia clínica para trastornos graves. Es un espacio de trabajo para personas que quieren aprender a relacionarse de otra manera con sus emociones, clarificar lo que importa de verdad y moverse hacia ello.
+
+## Servicios
+
+- **Regulación emocional**: trabajo con desregulación, reactividad intensa, bloqueo emocional, ansiedad, ira.
+- **Clarificación de valores**: para quien actúa en piloto automático o siente que su vida no refleja lo que le importa.
+- **Flexibilidad psicológica**: trabajo con rumia, evitación experiencial, perfeccionismo e incertidumbre.
+
+## Quién es Vanessa Luque
+
+Educadora social con formación en psicología (grado en curso, UNED) y máster en terapias contextuales. Su práctica integra el análisis de conducta, las terapias de tercera generación y el mindfulness como herramienta de cambio real.
+
+## Contacto
+
+- Email: contacto@serelpis.com
+- Web: https://www.serelpis.com
+- Modalidad: sesiones individuales online (videollamada)
+- Idioma: español
